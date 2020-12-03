@@ -1,4 +1,8 @@
-Homemade CyberTruck
+# Homemade CyberTruck
+
+![CyberTruck Scene 1](https://github.com/SeymurD/homemade-cybertruck/blob/master/media/scenic_cybertruck_1.png)
+
+### Introduction
 
 
 | | |
