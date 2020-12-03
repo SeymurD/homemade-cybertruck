@@ -10,8 +10,8 @@ The following will be a log of how my work on this progresses on starting from t
 
 | | |
 |:-------------------------:|:-------------------------:|
-|<img width="1604" height="275" alt="cybertruck scene 1" src="https://github.com/SeymurD/homemade-cybertruck/blob/master/media/scenic_cybertruck_1.png">  Three-Quarter Side View |  <img width="1604" height="275" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/SeymurD/homemade-cybertruck/blob/master/media/scenic_cybertruck_2.png"> Elevated Side View|
-|<img width="1604" height="275" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/SeymurD/homemade-cybertruck/blob/master/media/scenic_cybertruck_3.png"> Front View |  <img width="1604" height="275" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/SeymurD/homemade-cybertruck/blob/master/media/scenic_cybertruck_4.png"> Rear View|
+|<img width="1604" height="250" alt="cybertruck scene 1" src="https://github.com/SeymurD/homemade-cybertruck/blob/master/media/scenic_cybertruck_1.png">  Three-Quarter Side View |  <img width="1604" height="250" alt="cybertruck scene 2" src="https://github.com/SeymurD/homemade-cybertruck/blob/master/media/scenic_cybertruck_2.png"> Elevated Side View|
+|<img width="1604" height="250" alt="cybertruck scene 3" src="https://github.com/SeymurD/homemade-cybertruck/blob/master/media/scenic_cybertruck_3.png"> Front View |  <img width="1604" height="250" alt="cybertruck scene 4" src="https://github.com/SeymurD/homemade-cybertruck/blob/master/media/scenic_cybertruck_4.png"> Rear View|
 
 From the Front View image, you may be wondering what some of the little holes are within the front bumper. The smaller holes on the silver portion are angled at 40-degrees and contain RaspberryPi Cam V2 with the base lens and serve as additional sources of imaging data that I can sync with the main FLIR BlackFlyS camera mounted high in the center of the vehicle. Additionally an Intel RealSense depth camera will be mounted near the dash space of the vehicle to provide depth information and once again will be synced with the main camera such that an image from the main camera can have a corresponding depth parameter.
 
@@ -21,4 +21,4 @@ The sensors are fitted snug inside the front section by having created a small p
 
 | | |
 |:-------------------------:|:-------------------------:|
-|<img width="1604" height="275" alt="cybertruck scene 1" src="https://github.com/SeymurD/homemade-cybertruck/blob/master/media/scenic_cybertruck_1.png">  Three-Quarter Side View |  <img width="1604" height="275" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/SeymurD/homemade-cybertruck/blob/master/media/scenic_cybertruck_2.png"> Elevated Side View|
+|<img width="1604" height="250" alt="cybertruck picam 1" src="https://github.com/SeymurD/homemade-cybertruck/blob/master/media/sectionview_picam.JPG">  Three-Quarter Side View |  <img width="1604" height="250" alt="cybertruck picam 2" src="https://github.com/SeymurD/homemade-cybertruck/blob/master/media/sectionview_picam2.JPG"> Elevated Side View|
