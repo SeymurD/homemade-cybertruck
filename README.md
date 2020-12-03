@@ -21,4 +21,4 @@ The sensors are fitted snug inside the front section by having created a small p
 
 | | |
 |:-------------------------:|:-------------------------:|
-|<img width="1604" height="250" alt="cybertruck picam 1" src="https://github.com/SeymurD/homemade-cybertruck/blob/master/media/sectionview_picam.JPG">  Three-Quarter Side View |  <img width="1604" height="250" alt="cybertruck picam 2" src="https://github.com/SeymurD/homemade-cybertruck/blob/master/media/sectionview_picam2.JPG"> Elevated Side View|
+|<img width="1604" height="250" alt="cybertruck picam 1" src="https://github.com/SeymurD/homemade-cybertruck/blob/master/media/sectionview_picam.JPG">  Cross-Sectional View |  <img width="1604" height="250" alt="cybertruck picam 2" src="https://github.com/SeymurD/homemade-cybertruck/blob/master/media/sectionview_picam2.JPG"> Skeleton/Wireframe View|
